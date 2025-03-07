@@ -1,0 +1,67 @@
+.center{
+    text-align: center;
+    background:linear-gradient(45deg,lime,darkgreen,greenyellow);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding:20px;
+}
+table{
+    box-shadow: 10px 10px black;
+    display:flex;
+}
+th,
+td{
+    background:linear-gradient(90deg,red,darkorange,orange);
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    background-color: crimson;
+    color:white;
+}
+fieldset{
+    border:none;
+}
+form{
+    background:linear-gradient(45deg,green,greenyellow,lime,orange);
+    box-shadow:10px 10px black;
+    border-radius: 50px;
+    border:none;
+}
+p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-variant: small-caps;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+}
+input{
+    height:30px;
+    border:none;
+    border-radius:5px;
+}
+input:focus{
+    background-color: gray;
+    color:white;
+}
+textarea{
+    border-radius:6px 4px 7px 5px;
+    border:none;
+    background-color: transparent;
+}
+textarea:focus{
+    background-color:white;
+}
+button{
+    border:none;
+    border-radius:5px;
+    background: linear-gradient(45deg,blue,darkblue,blueviolet);
+    padding:15px;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

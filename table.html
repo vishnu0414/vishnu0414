@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time table</title>
+    <link rel="stylesheet" href="C:\Users\u\java\style1.css">
+</head>
+<body>
+    <table>
+        <tr>
+            <th class="center"  colspan="9">Time table On 3rd year</th>
+        </tr>
+        <tr>
+            <th>Date And time</th>
+            <th>9:10 AM TO 10:10 AM</th>
+            <th>10:10 AM TO 11:10 AM</th>
+            <th>11:10 AM TO 11:20 AM</th>
+            <th>11:20 AM TO 12:20 PM</th>
+            <th>12:20 PM TO 1:20 PM</th>
+            <th>1:20 PM TO 2:10 PM </th>
+            <th>2:10 PM TO 3:10 PM</th>
+            <th>3:10 PM TO 4:10 PM</th>
+        </tr>
+        <tr>
+            <th>MON</th>
+            <td>IR</td>
+            <td>USP</td>
+            <td rowspan="6" align="center">T<br>E<br>A<br> <br>B<br>R<br>E<br>A<br>K<br></td>
+            <td>FLAT</td>
+            <td>LIB</td>
+            <td rowspan="6" align="center"><br>L<br>U<br>N<br>C<br>H<br><br> B<br>R<br>E<br>A<br>K<br></td>
+            <td>AI</td>
+            <td>DWM</td>
+        </tr>
+        <tr>
+            <th>TUE</th>
+            <td colspan="2">USP Lab</td>
+            <!--<td>USP Lab</td>-->
+            <!--<td>TEA BREAK</td>-->
+            <td>USP Lab</td>
+            <td>Counselling</td>
+            <!--<td>LUNCH BREAK</td>-->
+            <td>DWM</td>
+            <td>WAD</td>
+        </tr>
+        <tr>
+            <th>WED</th>
+            <td>USP</td>
+            <td>DTI</td>
+           <!---<td>TEA BREAK</td>-->
+            <td>IR</td>
+            <td>FLAT</td>
+            <!--<td>LUNCH BREAK</td>-->
+            <td colspan="2">WAD LAB</td>
+            <!--<td>WAD LAB</td>-->
+        </tr>
+        <tr>
+            <th>THUR</th>
+            <td>AI</td>
+            <td>DAA</td>
+           <!--<td>TEA BREAK</td>-->
+            <td>FLAT</td>
+            <td>DWM</td>
+            <!--<td>LUNCH BREAK</td>-->
+            <td>DTI</td>
+            <td>USP</td>
+        </tr>
+        <tr>
+            <th>FRI</th>
+            <td>DWM</td>
+            <td>AI</td>
+            <!--<td>TEA BREAK</td>-->
+            <td>USP</td>
+            <td>IR</td>
+            <!--<td>LUNCH BREAK</td>-->
+            <td colspan="2">CSP</td>
+            <!--<td>CSP</td>-->
+        </tr>
+        <tr>
+            <th>SAT</th>
+            <td>FLAT</td>
+            <td>DWM LAB</td>
+            <!--<td>TEA BREAK</td>-->
+            <td colspan="2">DWM LAB</td>
+            <!--<td>DWM LAB</td>-->
+            <!--<td>LUNCH BREAK</td>-->
+            <td>AI</td>
+            <td>IR</td>
+        </tr>
+    </table><br>
+    <hr>
+    <hr>
+    <center>
+        <h1><u>REGISTRATION PAGE</u></h1>
+    </center>
+    <div>
+    <form>
+        <fieldset>
+            <p>
+                NAME: <input type="text" placeholder="enter the name">
+            </p>
+            <p>
+                PASSWORD: <input type="password" placeholder="enter the password">
+            </p>
+            <p>
+                E-MAIL ID :<input type="email" placeholder="enter the email">
+            </p>
+            <p>
+                GENDER: <input type="radio" name="Gender" value="male">MALE 
+                        <input type="radio" name="Gender" value="female">FEMALE
+            </p>
+            <p>
+               <label for="DAY"> DATE OF BIRTH :</label>
+               <select name="DAY" id="DAY">
+                    <option value="DAY">DAY</option>
+                    <option value="SUNDAY">SUN</option>
+                    <option value="MONDAY">MON</option>
+                    <option value="TUESDAY">TUE</option>
+                    <option value="WEDNESDAY">WED</option>
+                    <option value="THURSDAY">THU</option>
+                    <option value="FRIDAY">FRI</option>
+                    <option value="SATURDAY">SAT</option>
+                </select>
+                <select name="MONTH" id="MONTH">
+                    <option value="MONTH">MONTH</option>
+                    <option value="JANUARY">JANUARY</option>
+                    <option value="FEBRUARY">FEBRUARY</option>
+                    <option value="MARCH">MARCH</option>
+                    <option value="APRIL">APRIL</option>
+                    <option value="MAY">MAY</option>
+                    <option value="JUNE">JUNE</option>
+                    <option value="JULY">JULY</option>
+                    <option value="AUGUST">AUGUST</option>
+                    <option value="SEPTEMBER">SEPTEMBER</option>
+                    <option value="OCTOBER">OCTOBER</option>
+                    <option value="NOVEMBER">NOVEMBER</option>
+                    <option value="DECEMBER">DECEMBER</option>
+                </select>
+                <select name="YEAR" id="YEAR">
+                    <option value="YEAR">YEAR</option>
+                    <option value="24">2024</option>
+                    <option value="23">2023</option>
+                    <option value="22">2022</option>
+                    <option value="21">2021</option>
+                    <option value="20">2020</option>
+                    <option value="19">2019</option>
+                    <option value="18">2018</option>
+                    <option value="17">2017</option>
+                    <option value="16">2016</option>
+                    <option value="15">2015</option>
+                    <option value="14">2014</option>
+                    <option value="13">2013</option>
+                    <option value="12">2012</option>
+                    <option value="11">2011</option>
+                    <option value="10">2010</option>
+                    <option value="09">2009</option>
+                    <option value="08">2008</option>
+                    <option value="07">2007</option>
+                    <option value="06">2006</option>
+                    <option value="05">2005</option>
+                    <option value="04">2004</option>
+                    <option value="03">2003</option>
+                    <option value="02">2002</option>
+                    <option value="01">2001</option>
+                    <option value="00">2000</option>
+                </select>
+            </p>
+            <p>
+            LANGUAGES KNOWN <input type="checkbox" value="English">ENGLISH 
+                            <input type="checkbox" value="Telugu">TELUGU 
+                            <input type="checkbox" value="Hindi">HINDI
+                            <input type="checkbox" value="Tamil">TAMIL
+            </p>
+            <p>
+                ADDRESS
+                <textarea name="address" id="address" rows="9" cols="53" placeholder="Data"></textarea>
+        </p>
+        <p>
+            <button>SUBMIT</button>
+            <button>RESET</button>
+        </p>
+        </fieldset>
+    </form>
+</div>
+<br><br>
+<hr><hr>
+</body>
+</html>
