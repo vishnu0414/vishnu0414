@@ -87,12 +87,13 @@ Aspiring Software Engineer | Full Stack Developer | AI Enthusiast 🚀
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vishnu0414&theme=tokyonight&column=4"/>
-</p>
 
+<img src="https://github-profile-trophy.vercel.app/?username=vishnu0414&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+
+</p>
 ---
 
 # 📈 Contribution Graph
