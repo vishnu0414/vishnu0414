@@ -91,7 +91,7 @@ Aspiring Software Engineer | Full Stack Developer | AI Enthusiast 🚀
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vishnu0414&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vishnu0414&theme=algolia"/>
 
 </p>
 ---
