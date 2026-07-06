@@ -16,7 +16,7 @@ Aspiring Software Engineer | Full Stack Developer | AI Enthusiast 🚀
 
 # 💫 About Me
 
-- 🎓 B.Tech Computer Science student passionate about Software Engineering.
+- 🎓 B.Tech Computer Science Graduate passionate about Software Engineering.
 - 💻 Interested in Full Stack Development, Artificial Intelligence, and Machine Learning.
 - 🚀 Building projects that solve real-world problems using modern technologies.
 - 🌱 Currently learning Data Structures & Algorithms, Backend Development, and Cloud Computing.
