@@ -79,10 +79,8 @@ Aspiring Software Engineer | Full Stack Developer | AI Enthusiast 🚀
 </p>
 ---
 
-# 🔥 GitHub Streak
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=vishnu0414&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vishnu0414" />
 </p>
 
 ---
